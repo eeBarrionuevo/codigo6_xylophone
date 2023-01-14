@@ -33,8 +33,13 @@ class HomePage extends StatelessWidget {
           //   },
           //   child: Text("Click"),
           // ),
-          buildKey(color: Colors.indigo, number: 1),
-          buildKey(color: Colors.amber, number: 2),
+          buildKey(color: Color(0xff10002b), number: 1),
+          buildKey(color: Color(0xff240046), number: 2),
+          buildKey(color: Color(0xff3c096c), number: 3),
+          buildKey(color: Color(0xff5a189a), number: 4),
+          buildKey(color: Color(0xff7b2cbf), number: 5),
+          buildKey(color: Color(0xff9d4edd), number: 6),
+          buildKey(color: Color(0xffc77dff), number: 7),
 
           // Expanded(
           //   flex: 5,
